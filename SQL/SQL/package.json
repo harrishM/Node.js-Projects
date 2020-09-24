@@ -1,0 +1,9 @@
+{
+  "name": "sql",
+  "version": "0.0.0",
+  "description": "SQL",
+  "main": "server.js",
+  "author": {
+    "name": "KOGUL"
+  }
+}
